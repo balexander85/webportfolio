@@ -1,5 +1,9 @@
+*.pyc
 .idea/*
 .python-version
 env/*
 protected_settings_*.json
 __pycache__/
+passenger_wsgi.py
+public/webportfolio/static/
+
