@@ -1,0 +1,5 @@
+.idea/*
+.python-version
+env/*
+protected_settings_*.json
+__pycache__/
