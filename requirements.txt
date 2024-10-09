@@ -1,4 +1,4 @@
-Django==3.2.25
+Django==4.2.16
 Fabric==1.14.0
 pip==23.3
 pytz==2017.3
